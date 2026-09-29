@@ -1,0 +1,24 @@
+SigVTA Academic Research License
+Version 1.0, 2026
+
+This license covers only the sample data and documentation published in
+this repository. It does not cover the full SigVTA dataset, which is
+distributed separately under its own agreement.
+
+Copyright (c) 2026 SigVTA authors.
+
+Permission is granted to use, copy, and modify the sample for
+non-commercial academic research, subject to the following conditions:
+
+1. The data are used for academic research only, not for commercial
+   purposes.
+2. The sample is not redistributed except as part of a work that cites
+   SigVTA, and never in a way that increases the re-identification risk
+   of the participant.
+3. No attempt is made to identify the writer or the forgers, or to link
+   the sample to any other data for that purpose.
+4. Any publication that uses the sample cites the SigVTA paper.
+
+THE SAMPLE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. THE AUTHORS ARE NOT LIABLE FOR ANY CLAIM OR DAMAGE ARISING FROM
+ITS USE.
