@@ -19,6 +19,12 @@ sample/writer080/
 
 Writer `080` was chosen as the public sample. The sample is de-identified: it contains pen trajectories and acquisition metadata only, with no name, contact detail, or identity mapping.
 
+The two figures below show one signature from each of the six states, rendered from the CSV in this repository. Line color in the first encodes normalized pressure; the second is the deterministic RGB encoding used in the paper (relative time in R, normalized pressure in G, B fixed at zero).
+
+![Trajectory of writer 080 under six states, colored by normalized pressure](figures/fig-dataset-sample.png)
+
+![Deterministic RGB encoding of the same six signatures](figures/fig-dataset-sample-rgb.png)
+
 ## File format
 
 Each signature is a UTF-8 CSV with seven columns:
